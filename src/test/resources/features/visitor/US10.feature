@@ -1,3 +1,4 @@
+@us10
 Feature: US10 İletişim sayfasına erişimin olduğu kontrol edilir
   Background:
     * Go to "url"

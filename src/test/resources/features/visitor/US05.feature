@@ -1,4 +1,4 @@
-@US05
+@us5
 Feature: US05 Siteye kayıt olunan e-posta adresi ve şifre ile giriş yapılabildiği kontrol edilir
   Background:
     * Go to "url"

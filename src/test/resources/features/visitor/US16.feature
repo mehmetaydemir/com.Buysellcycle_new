@@ -1,4 +1,4 @@
-@US16
+@us16
 
 Feature: US16 Sayfanın en altındaki fonksiyonlara erişim kontrol edilir
 

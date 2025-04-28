@@ -1,3 +1,4 @@
+@us4
 Feature: US04 Kullanıcının siteye kayıt olabildiği kontrol edilir
 
   Background:

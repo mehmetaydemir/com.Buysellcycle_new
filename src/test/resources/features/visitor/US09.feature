@@ -1,4 +1,4 @@
-@US09
+@us9
 Feature: US09 Blog sayfasına erişimin olduğu kontrol edilir
 
   Background:

@@ -1,5 +1,4 @@
-
-  @US07
+@us7
   Feature: US07 Güncel ürünlerin görüntülendiği sayfaya erişim kontol edilir
     Background:
       * Go to "url"

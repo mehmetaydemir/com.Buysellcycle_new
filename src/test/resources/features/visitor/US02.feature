@@ -1,4 +1,4 @@
-@US02
+@us2
 Feature: Kullanicinin ana sayfanın üst çubugundaki bağlantılara erisimi kontrol edilir
 
   Background:

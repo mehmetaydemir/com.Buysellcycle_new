@@ -1,4 +1,4 @@
-@US11
+@us11
 Feature:US11 Ana sayfa gezinme çubuğundaki "Yeni Kullanıcı Alanı" menü öğesinin görünürlüğü ve işlevselliği kontrol edilir
 
   Background:

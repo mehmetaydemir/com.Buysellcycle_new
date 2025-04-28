@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
         features = "src/test/resources/features",
         glue = {"stepdefinitions","hooks"},
-        tags = "",
+        tags = "@us1",
         dryRun =false
 )
 

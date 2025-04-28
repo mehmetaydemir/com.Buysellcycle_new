@@ -1,4 +1,4 @@
-@US01TC01
+@us1
 Feature: Kullanicinin anasayfaya erisimi kontrol edilir
 
   Scenario: TC_01 Kullanicinin anasayfaya erisiminin saglanmasi

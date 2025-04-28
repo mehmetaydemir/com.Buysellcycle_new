@@ -1,4 +1,4 @@
-
+@us6
 Feature: US006 Ana sayfadaki Kategoriler başlığının altındaki tüm kategorilerin görüntülendiği kontol edilir
 
   Background:

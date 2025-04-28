@@ -1,4 +1,4 @@
-@US08
+@us8
 Feature: US008 Hakkımızda sayfasına erişimin olduğu kontrol edilir
   Background:
     * Go to "url"

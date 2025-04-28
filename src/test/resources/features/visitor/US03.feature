@@ -1,4 +1,4 @@
-
+@us3
 Feature: Siparişlerin durumunun görüntülenmesi kontrol edilir
 
   Background:
@@ -30,7 +30,7 @@ Feature: Siparişlerin durumunun görüntülenmesi kontrol edilir
     * Verify that the message is visible
     * Close the page
 
-  @US03
+
   Scenario: TC_05 Gizli Kimlik (Sadece Misafir Kullanıcı İçin) metin kutusunun görünür olması
     * Click Order Tracking Number textbox and Write "OrderID"
     * Click Track Now button

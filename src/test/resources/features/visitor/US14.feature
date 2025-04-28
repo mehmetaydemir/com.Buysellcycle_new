@@ -1,4 +1,4 @@
-@US14
+@us14
 Feature: US14 Ana sayfa gövde bölümündeki fonksiyonlar kontrol edilir
 
   Scenario: TC_01 Ürünlerin ana sayfanın gövde bölümünde, En İyi Fırsatlar menüsü altında görüntülenmesi
