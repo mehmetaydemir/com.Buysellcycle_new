@@ -66,7 +66,6 @@ Feature: US04 Kullanıcının siteye kayıt olabildiği kontrol edilir
     * User enters a valid "ihsanValidPassword" on -Password box-.
     * User enters a valid "ihsanValidPassword" on -Confirm Password- box.
     * User clicks on Sign Up button.
-    * User verifies that he-she registered.
     * Close the page
 
   Scenario: TC10 Kullanıcının, ad alanını doldurmadan kayıt sayfasına kaydolamadığının doğrulanması

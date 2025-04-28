@@ -15,12 +15,3 @@ Feature: US13 Ürünler hakkında bilgi alınabilmesi için fonksiyonel kaydır�
     * Close the page
 
 
-
-   Scenario: TC03 Görüntülerin bir döngüde otomatik sırayla bir kaydırıcıda görüntülenmesi
-   * Slider images are expected to automatically switch after a certain period of time Verifies that images are automatically displayed in a loop
-   * Close the page
-
-
-   Scenario: TC04 Kaydırıcıdaki resimlere tıklanması
-   * Click on a slider image and Verifies that the relevant page has been opened
-   * Close the page

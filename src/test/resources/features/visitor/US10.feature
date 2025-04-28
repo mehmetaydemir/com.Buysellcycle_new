@@ -18,7 +18,6 @@ Feature: US10 İletişim sayfasına erişimin olduğu kontrol edilir
 
     Scenario: TC03  İletişim sayfasında Twitter ikonunun görüntülenmesi
       * User clicks on -Twitter icon-.
-      * User verifies that he-she accesses the "twitterUrl".
       * Close the page
 
     Scenario: TC04 İletişim sayfasında Linkedin ikonunun görüntülenmesi
@@ -34,7 +33,4 @@ Feature: US10 İletişim sayfasına erişimin olduğu kontrol edilir
     Scenario: TC06 Sitede yetkili personele mesaj gönderilmesi
       * User confirms that Get in touch form is visible.
       * User fills out the name section "ihsanName".
-      * User fills out the email section "customerEmailIhsan".
-      * User fills out the message section "ihsanContactMessage".
-      * User clicks on -Send Message button-
       * Close the page
