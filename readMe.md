@@ -1,5 +1,4 @@
 # com.BuySellCycle
-### Team2
 ### 
 ***
 
