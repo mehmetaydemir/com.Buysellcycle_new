@@ -1,7 +1,7 @@
 @us1
-Feature: Kullanicinin anasayfaya erisimi kontrol edilir
+Feature: US01 Kullanicinin anasayfaya erisimi kontrol edilir
 
-  Scenario: TC_01 Kullanicinin anasayfaya erisiminin saglanmasi
+  Scenario: TC_01 Bir kullanıcı olarak,  Ana sayfaya erişmek istiyorum  Böylece site içeriğini görebilirim
 
     Given Go to "url"
     Then  Verify that the title is "BuySellCycle | Multivendor Marketplace"

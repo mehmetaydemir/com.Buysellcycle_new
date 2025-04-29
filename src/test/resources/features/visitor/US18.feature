@@ -1,11 +1,12 @@
 @us18
-Feature: İstek Listem Sayfasi Kontrol Edilir
+Feature: US18 İstek Listem Sayfasi Kontrol Edilir
 
   Background:
     * Go to "url"
 
 
-  Scenario: TC01 Dashboard kenar cubugunda benim istek listem menu baslıgı gorunur olmasi
+  Scenario: TC01 Kullanıcı, Dashboard kenar çubuğunda 'Benim İstek Listem' menü başlığını doğru şekilde görüntüleyebilmelidir.
+
     * All Categories in the nav bar on the home page that the drop-down menu is visible verify.
     * Go to the All Categories dropdown menu click.
     * All items in the drop-down menu category titles of verify that it is visible.
@@ -16,13 +17,15 @@ Feature: İstek Listem Sayfasi Kontrol Edilir
     * Close the page
 
 
-  Scenario: TC02 Begenilen urunler benim istek listem sayfasinda goruntulenmesi
+  Scenario: TC02 Kullanıcı, 'Benim İstek Listem' sayfasına gittiğinde, beğenilen ürünlerin doğru şekilde listelendiğini görebilmelidir.
+
     * Displays und click the headings ( Compare) on the top right side
     * Close the page
 
 
 
-  Scenario: TC03 Benim istek listem sayfasindadaki favori urunler filtrelenip aranabilmesi
+  Scenario: TC03 Kullanıcı, 'Benim İstek Listem' sayfasında favori ürünlerini belirli kriterlere göre filtreleyerek arama yapabilmelidir.
+
     * Verify that the Blog menu title is visible in the home page navBar
     * Verify that the Blog link is active on the home page
     * Click on the blog menu
@@ -30,7 +33,8 @@ Feature: İstek Listem Sayfasi Kontrol Edilir
     * Close the page
 
 
-  Scenario: TC04 Benim istek listem sayfasindaki urunler uzerinde islemler yapilabilmesi
+  Scenario: TC04 Kullanıcı, 'Benim İstek Listem' sayfasındaki ürünler üzerinde işlem yaparak, ürünleri sepete ekleyebilir, favorilerinden çıkarabilir veya detaylarını görüntüleyebilir.
+
     * Click All Categories dropdown menu
     * Click the Electronics link
     * Displays Electronics subcategories
